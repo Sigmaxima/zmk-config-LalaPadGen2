@@ -69,9 +69,9 @@
 &mt LCTRL A        &kp S      &kp D         &kp F                  &kp G                                &kp H        &kp J                  &kp K           &kp L           &mt2 EQUAL MINUS
 &mt2 LEFT_SHIFT Z  &kp X      &kp C         &kp V                  &kp B                                &kp N        &kp M                  &kp COMMA       &kp PERIOD      &kp SLASH
 &kp LCTRL          &kp LWIN   &kp LEFT_ALT  &lt 2 INTERNATIONAL_5  &lt 2 SPACE  &kp DEL  &kp BACKSPACE  &lt 3 ENTER  &lt 3 INTERNATIONAL_4  &kp LANGUAGE_2  &kp LANGUAGE_1  &kp BACKSLASH
-                   &none      &kp RIGHT     &kp DOWN               &kp LEFT     &kp UP   &kp UP         &kp LEFT     &kp DOWN               &kp RIGHT       &none
+                   &none      &kp RIGHT     &kp DOWN               &kp LEFT     &kp UP   &kp LC(PLUS)   &kp LEFT     &kp LC(MINUS)          &kp RIGHT       &none
 &mkp LCLK          &mkp RCLK  &mkp MCLK                                                                                                     &mkp LCLK       &none           &none
-&mkp MB4           &mkp MB5   &kp LG(TAB)   &kp LG(D)              &kp LCTRL                            &mkp MB4     &mkp MB5               &none           &none           &kp LCTRL
+&mkp MB4           &mkp MB5   &kp LG(TAB)   &kp LG(D)              &kp LCTRL                            &none        &none                  &none           &none           &kp LCTRL
             >;
         };
 
