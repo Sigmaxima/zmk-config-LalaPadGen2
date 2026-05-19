@@ -87,6 +87,26 @@
             bindings = <&kp RIGHT_BRACE>;
             key-positions = <26 27>;
         };
+
+        copy {
+            bindings = <&kp LC(C)>;
+            key-positions = <12 11>;
+        };
+
+        cut {
+            bindings = <&kp LC(X)>;
+            key-positions = <23 22>;
+        };
+
+        paste {
+            bindings = <&kp LC(V)>;
+            key-positions = <13 12>;
+        };
+
+        undo {
+            bindings = <&kp LC(Z)>;
+            key-positions = <21 22>;
+        };
     };
 
     keymap {
