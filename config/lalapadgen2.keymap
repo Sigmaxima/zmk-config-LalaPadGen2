@@ -59,32 +59,32 @@
         };
 
         Left_Parenthesis {
-            bindings = <&kp LEFT_PARENTHESIS>;
+            bindings = <&kp LS(NUMBER_8)>;
             key-positions = <5 6>;
         };
 
         Right_Parenthesis {
-            bindings = <&kp RIGHT_PARENTHESIS>;
+            bindings = <&kp LS(NUMBER_9)>;
             key-positions = <6 7>;
         };
 
         Left_Bracket {
-            bindings = <&kp LEFT_BRACKET>;
+            bindings = <&kp SEMICOLON>;
             key-positions = <15 16>;
         };
 
         Right_Bracket {
-            bindings = <&kp RIGHT_BRACKET>;
+            bindings = <&kp LEFT_BRACKET>;
             key-positions = <16 17>;
         };
 
         Left_Brace {
-            bindings = <&kp LEFT_BRACE>;
+            bindings = <&kp LS(SEMICOLON)>;
             key-positions = <25 26>;
         };
 
         Right_Brace {
-            bindings = <&kp RIGHT_BRACE>;
+            bindings = <&kp LS(LEFT_BRACKET)>;
             key-positions = <26 27>;
         };
 
