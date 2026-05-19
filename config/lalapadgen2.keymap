@@ -74,7 +74,7 @@
         };
 
         Right_Bracket {
-            bindings = <&kp LEFT_BRACKET>;
+            bindings = <&kp NON_US_BACKSLASH>;
             key-positions = <16 17>;
         };
 
@@ -84,7 +84,7 @@
         };
 
         Right_Brace {
-            bindings = <&kp LS(LEFT_BRACKET)>;
+            bindings = <&kp LS(NON_US_BACKSLASH)>;
             key-positions = <26 27>;
         };
 
