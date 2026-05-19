@@ -69,7 +69,7 @@
         };
 
         Left_Bracket {
-            bindings = <&kp SEMICOLON>;
+            bindings = <&kp RIGHT_BRACKET>;
             key-positions = <15 16>;
         };
 
@@ -79,7 +79,7 @@
         };
 
         Left_Brace {
-            bindings = <&kp LS(SEMICOLON)>;
+            bindings = <&kp RIGHT_BRACE>;
             key-positions = <25 26>;
         };
 
