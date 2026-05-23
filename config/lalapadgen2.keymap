@@ -102,6 +102,16 @@
             bindings = <&kp LS(NUHS)>;
             key-positions = <29 28>;
         };
+
+        semicolon {
+            bindings = <&kp SEMI>;
+            key-positions = <17 18>;
+        };
+
+        colon {
+            bindings = <&kp LEFT_BRACKET>;
+            key-positions = <18 19>;
+        };
     };
 
     macros {
