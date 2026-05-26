@@ -99,7 +99,7 @@
         };
 
         underscore {
-            bindings = <&kp LS(NUHS)>;
+            bindings = <&kp UNDER>;
             key-positions = <29 28>;
         };
 
@@ -131,7 +131,7 @@
             display-name = "Default";
             bindings = <
 &mt ESCAPE Q       &kp W      &kp E          &kp R                  &kp T                                            &kp Y            &kp U                  &kp I              &kp O       &kp P
-&mt LCTRL A        &kp S      &kp D          &kp F                  &kp G                                            &kp H            &kp J                  &kp K              &kp L       &mt2 EQUAL MINUS
+&mt LCTRL A        &kp S      &kp D          &kp F                  &kp G                                            &kp H            &kp J                  &kp K              &kp L       &mt LCTRL MINUS
 &mt2 LEFT_SHIFT Z  &kp X      &kp C          &kp V                  &kp B                                            &kp N            &kp M                  &kp COMMA          &kp PERIOD  &mt RIGHT_SHIFT SLASH
 &kp LCTRL          &kp LWIN   &kp LEFT_ALT   &lt 3 INTERNATIONAL_5  &lt 3 SPACE   &kp DEL     &kp BACKSPACE          &lt 2 ENTER      &lt 2 INTERNATIONAL_4  &mc_at             &kp EQUAL   &kp INT_RO
                    &none      &kp LG(RIGHT)  &kp LG(DOWN)           &kp LG(LEFT)  &kp LG(UP)  &kp LC(LS(SEMICOLON))  &kp LC(PAGE_UP)  &kp LC(MINUS)          &kp LC(PAGE_DOWN)  &none
