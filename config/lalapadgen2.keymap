@@ -142,13 +142,13 @@
 
         APPLE {
             bindings = <
-&trans  &trans  &trans  &trans  &trans                            &trans  &trans            &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans                            &trans  &trans            &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans                            &trans  &trans            &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &lt 3 LANGUAGE_2  &trans  &trans  &trans  &lt 2 LANGUAGE_1  &trans  &trans  &trans
-        &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans            &trans  &trans
+&trans  &trans  &trans  &trans            &trans                  &trans  &trans            &trans  &trans  &trans
+&trans  &trans  &trans  &trans            &trans                  &trans  &trans            &trans  &trans  &trans
+&trans  &trans  &trans  &trans            &trans                  &trans  &trans            &trans  &trans  &trans
+&trans  &trans  &trans  &lt 3 LANGUAGE_2  &trans  &trans  &trans  &trans  &lt 2 LANGUAGE_1  &trans  &trans  &trans
+        &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans            &trans  &trans
 &trans  &trans  &trans                                                                      &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans                            &trans  &trans            &trans  &trans  &trans
+&trans  &trans  &trans  &trans            &trans                  &trans  &trans            &trans  &trans  &trans
             >;
         };
 
