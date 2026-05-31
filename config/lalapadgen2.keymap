@@ -115,7 +115,7 @@
         };
 
         underscore {
-            bindings = <&kp UNDER>;
+            bindings = <&kp LS(INTERNATIONAL_1)>;
             key-positions = <29 28>;
         };
 
